@@ -1,0 +1,27 @@
+{
+	"site": "void-gate.tk",
+	"name": "DJNightmares",
+	"image": "https://void-gate.tk/Vexa.png",
+	"birthday": "2001-03-12",
+	"people": [
+		"www.hidi.tk",
+		"rep-tiled.tk"
+	],
+	"extensions": {
+		"socialMedia": {
+			"twitter": {
+				"name": "DJNightmares",
+				"link": "https://twitter.com/DJ_Nightmares",
+				"handle": "DJ_Nightmares"
+			},
+			"neos": {
+				"name": "DJNightmares",
+				"userID": "U-DJNightmares"
+			},
+			"github": {
+				"name": "DJNightmares",
+				"link": "https://github.com/DJ-Night-mares"
+			}
+		}
+	}
+}
